@@ -76,3 +76,5 @@ D:\Faculdade\Trabalho\agora vai\ludus_service_stadiums\obj\Debug\net6.0\refint\L
 D:\Faculdade\Trabalho\agora vai\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.pdb
 D:\Faculdade\Trabalho\agora vai\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.genruntimeconfig.cache
 D:\Faculdade\Trabalho\agora vai\ludus_service_stadiums\obj\Debug\net6.0\ref\Ludus Stadium.dll
+D:\Faculdade\Trabalho\agora vai\ludus_service_stadiums\bin\Debug\net6.0\Humanizer.dll
+D:\Faculdade\Trabalho\agora vai\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
