@@ -78,6 +78,7 @@ D:\Faculdade\Trabalho\Trab\obj\Debug\net6.0\Ludus Stadium.genruntimeconfig.cache
 D:\Faculdade\Trabalho\Trab\obj\Debug\net6.0\ref\Ludus Stadium.dll
 D:\Faculdade\Trabalho\Trab\bin\Debug\net6.0\Humanizer.dll
 D:\Faculdade\Trabalho\Trab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+<<<<<<< HEAD
 D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\appsettings.Development.json
 D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\appsettings.json
 D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\efpt.config.json
@@ -119,3 +120,5 @@ D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\refint\Ludus 
 D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.pdb
 D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.genruntimeconfig.cache
 D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\ref\Ludus Stadium.dll
+=======
+>>>>>>> a2a262eebc9291de31a09a406a6b3aa613d5482f

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aatxxV8nkOJ8bjaZ9K6xNJFSyi+gBHRthivh8QKUJwOXub0jXYV3QBRdDCrImJSWC0S85a5ddztVPGQsAS1XCg==",
   "success": true,
   "projectFilePath": "D:\\Faculdade\\Trabalho\\Aqui\\ludus_service_stadiums\\Ludus Stadium.csproj",
+=======
+  "dgSpecHash": "4cPxEJTrpz5v19WwVy32cLn98nC6+fyjgBNMatvQdfoNNHt7UJWR1EfH6bE6nIV633MI7RXeNVQmLBX0BAxjYw==",
+  "success": true,
+  "projectFilePath": "D:\\Faculdade\\Trabalho\\Trab\\Ludus Stadium.csproj",
+>>>>>>> a2a262eebc9291de31a09a406a6b3aa613d5482f
   "expectedPackageFiles": [
     "C:\\Users\\igors\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\igors\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
