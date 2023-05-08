@@ -78,3 +78,44 @@ D:\Faculdade\Trabalho\Trab\obj\Debug\net6.0\Ludus Stadium.genruntimeconfig.cache
 D:\Faculdade\Trabalho\Trab\obj\Debug\net6.0\ref\Ludus Stadium.dll
 D:\Faculdade\Trabalho\Trab\bin\Debug\net6.0\Humanizer.dll
 D:\Faculdade\Trabalho\Trab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\appsettings.Development.json
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\appsettings.json
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\efpt.config.json
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Ludus Stadium.exe
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Ludus Stadium.deps.json
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Ludus Stadium.runtimeconfig.json
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Ludus Stadium.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Ludus Stadium.pdb
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Humanizer.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\MySqlConnector.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.csproj.AssemblyReference.cache
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.AssemblyInfoInputs.cache
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.AssemblyInfo.cs
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.csproj.CoreCompileInputs.cache
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.MvcApplicationPartsAssemblyInfo.cs
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.MvcApplicationPartsAssemblyInfo.cache
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets\msbuild.Ludus Stadium.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets\msbuild.build.Ludus Stadium.props
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ludus Stadium.props
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ludus Stadium.props
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets.build.json
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets.development.json
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\scopedcss\bundle\Ludus Stadium.styles.css
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.csproj.CopyComplete
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\refint\Ludus Stadium.dll
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.pdb
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\Ludus Stadium.genruntimeconfig.cache
+D:\Faculdade\Trabalho\Aqui\ludus_service_stadiums\obj\Debug\net6.0\ref\Ludus Stadium.dll

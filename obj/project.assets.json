@@ -1040,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Faculdade\\Trabalho\\Trab\\Ludus Stadium.csproj",
+      "projectUniqueName": "D:\\Faculdade\\Trabalho\\Aqui\\ludus_service_stadiums\\Ludus Stadium.csproj",
       "projectName": "Ludus Stadium",
-      "projectPath": "D:\\Faculdade\\Trabalho\\Trab\\Ludus Stadium.csproj",
+      "projectPath": "D:\\Faculdade\\Trabalho\\Aqui\\ludus_service_stadiums\\Ludus Stadium.csproj",
       "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
-      "outputPath": "D:\\Faculdade\\Trabalho\\Trab\\obj\\",
+      "outputPath": "D:\\Faculdade\\Trabalho\\Aqui\\ludus_service_stadiums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
