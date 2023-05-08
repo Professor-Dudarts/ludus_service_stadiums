@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ludus Stadium.props" />
+</Project>
