@@ -11,12 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ludus Stadium")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("81b7a462-0fe7-4262-802b-5ece3a18a1b8")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LudusStadium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ludus Stadium")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ludus Stadium")]
+[assembly: System.Reflection.AssemblyProductAttribute("LudusStadium")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LudusStadium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

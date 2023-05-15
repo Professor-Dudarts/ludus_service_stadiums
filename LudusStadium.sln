@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludus Stadium", "Ludus Stadium.csproj", "{B9C05854-0949-4B76-99B0-A93A2B017565}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudusStadium", "LudusStadium.csproj", "{EDBF29A6-63B4-49C1-8782-3A99950064FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B9C05854-0949-4B76-99B0-A93A2B017565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9C05854-0949-4B76-99B0-A93A2B017565}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9C05854-0949-4B76-99B0-A93A2B017565}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9C05854-0949-4B76-99B0-A93A2B017565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBF29A6-63B4-49C1-8782-3A99950064FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBF29A6-63B4-49C1-8782-3A99950064FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBF29A6-63B4-49C1-8782-3A99950064FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBF29A6-63B4-49C1-8782-3A99950064FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C20209BE-19BE-403E-ADDE-7C49C45E5A94}
+		SolutionGuid = {BE1603E1-54C9-4FDB-9760-97B4723DAB6A}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,82 @@
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\appsettings.Development.json
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\appsettings.json
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\efpt.config.json
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\LudusStadium.exe
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\LudusStadium.deps.json
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\LudusStadium.runtimeconfig.json
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\LudusStadium.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\LudusStadium.pdb
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\MySqlConnector.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.csproj.AssemblyReference.cache
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.AssemblyInfoInputs.cache
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.AssemblyInfo.cs
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.csproj.CoreCompileInputs.cache
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.MvcApplicationPartsAssemblyInfo.cs
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.MvcApplicationPartsAssemblyInfo.cache
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\staticwebassets\msbuild.LudusStadium.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\staticwebassets\msbuild.build.LudusStadium.props
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LudusStadium.props
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LudusStadium.props
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\staticwebassets.build.json
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\staticwebassets.development.json
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\scopedcss\bundle\LudusStadium.styles.css
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.csproj.CopyComplete
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\refint\LudusStadium.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.pdb
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\LudusStadium.genruntimeconfig.cache
+D:\Faculdade\Projeto\TrabV2\LudusStadium\obj\Debug\net6.0\ref\LudusStadium.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Humanizer.dll
+D:\Faculdade\Projeto\TrabV2\LudusStadium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\appsettings.Development.json
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\appsettings.json
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\efpt.config.json
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\LudusStadium.exe
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\LudusStadium.deps.json
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\LudusStadium.runtimeconfig.json
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\LudusStadium.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\LudusStadium.pdb
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Humanizer.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\MySqlConnector.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.csproj.AssemblyReference.cache
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.AssemblyInfoInputs.cache
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.AssemblyInfo.cs
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.csproj.CoreCompileInputs.cache
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.MvcApplicationPartsAssemblyInfo.cs
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.MvcApplicationPartsAssemblyInfo.cache
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\staticwebassets\msbuild.LudusStadium.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\staticwebassets\msbuild.build.LudusStadium.props
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LudusStadium.props
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LudusStadium.props
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\staticwebassets.build.json
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\staticwebassets.development.json
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\scopedcss\bundle\LudusStadium.styles.css
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.csproj.CopyComplete
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\refint\LudusStadium.dll
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.pdb
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.genruntimeconfig.cache
+D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\ref\LudusStadium.dll
