@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sIW3LCgBtlO/Zt/kt90uDTRUjfr576JSTNwjyX9PTzxb7PpBZcil+yCaAZaN83Kr33tR26fw/tbuJqFs6kuSnw==",
+  "dgSpecHash": "U6BSK+I/vj5uPxbPdacx9EU/cZss0IXN4HnZURlsPDrM12qMhyy5S0leNtLXfUYBb65sAi/gdsfKVd2KyN2UpA==",
   "success": true,
-  "projectFilePath": "D:\\Faculdade\\Trabalho\\agora vai\\ludus_service_stadiums\\Ludus Stadium.csproj",
+  "projectFilePath": "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\LudusStadium.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igors\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\igors\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\igors\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\igors\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\igors\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\igors\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
     "C:\\Users\\igors\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.2\\pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
     "C:\\Users\\igors\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

@@ -1,6 +1,6 @@
 ﻿{
    "CodeGenerationMode": 2,
-   "ContextClassName": "ludusstadiumsContext",
+   "ContextClassName": "LudusStadiumsContext",
    "ContextNamespace": null,
    "DefaultDacpacSchema": null,
    "FilterSchemas": false,
@@ -9,11 +9,19 @@
    "OutputContextPath": null,
    "OutputPath": "Models",
    "PreserveCasingWithRegex": true,
-   "ProjectRootNamespace": "Ludus_Stadium",
+   "ProjectRootNamespace": "LudusStadium",
    "Schemas": null,
    "SelectedHandlebarsLanguage": 0,
    "SelectedToBeGenerated": 0,
    "Tables": [
+      {
+         "Name": "adress",
+         "ObjectType": 0
+      },
+      {
+         "Name": "schedule",
+         "ObjectType": 0
+      },
       {
          "Name": "stadium",
          "ObjectType": 0

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Faculdade\\Trabalho\\agora vai\\ludus_service_stadiums\\Ludus Stadium.csproj": {}
+    "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\LudusStadium.csproj": {}
   },
   "projects": {
-    "D:\\Faculdade\\Trabalho\\agora vai\\ludus_service_stadiums\\Ludus Stadium.csproj": {
+    "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\LudusStadium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Faculdade\\Trabalho\\agora vai\\ludus_service_stadiums\\Ludus Stadium.csproj",
-        "projectName": "Ludus Stadium",
-        "projectPath": "D:\\Faculdade\\Trabalho\\agora vai\\ludus_service_stadiums\\Ludus Stadium.csproj",
+        "projectUniqueName": "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\LudusStadium.csproj",
+        "projectName": "LudusStadium",
+        "projectPath": "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\LudusStadium.csproj",
         "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
-        "outputPath": "D:\\Faculdade\\Trabalho\\agora vai\\ludus_service_stadiums\\obj\\",
+        "outputPath": "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
