@@ -9,9 +9,9 @@ services:
     depends_on:
       - db
     environment:
-      - ConnectionStrings__DefaultConnection=Server=db;Database=LudusStadium;User=sa;Password=admin
+      - ConnectionStrings__DefaultConnection=Server=db;Database=LudusStadium;User=root;Password=root
   db:
     image: mcr.microsoft.com/mssql/server
     environment:
-      - SA_PASSWORD=admin
+      - SA_PASSWORD=root
       - ACCEPT_EULA=Y
