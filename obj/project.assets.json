@@ -1124,19 +1124,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\igors\\.nuget\\packages\\": {}
+    "C:\\Users\\KingE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\LudusStadium.csproj",
+      "projectUniqueName": "C:\\Users\\KingE\\Documents\\Projetos\\ProjetoLudus\\ludus_service_stadiums\\LudusStadium.csproj",
       "projectName": "LudusStadium",
-      "projectPath": "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\LudusStadium.csproj",
-      "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
-      "outputPath": "D:\\Faculdade\\Trabalho\\Topicos Avançados\\Ludus\\obj\\",
+      "projectPath": "C:\\Users\\KingE\\Documents\\Projetos\\ProjetoLudus\\ludus_service_stadiums\\LudusStadium.csproj",
+      "packagesPath": "C:\\Users\\KingE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KingE\\Documents\\Projetos\\ProjetoLudus\\ludus_service_stadiums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KingE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

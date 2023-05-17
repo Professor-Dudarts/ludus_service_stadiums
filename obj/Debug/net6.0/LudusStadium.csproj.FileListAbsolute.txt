@@ -80,3 +80,44 @@ D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\refint\LudusStad
 D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.pdb
 D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\LudusStadium.genruntimeconfig.cache
 D:\Faculdade\Trabalho\Topicos Avançados\Ludus\obj\Debug\net6.0\ref\LudusStadium.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\appsettings.json
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\efpt.config.json
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\LudusStadium.exe
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\LudusStadium.deps.json
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\LudusStadium.runtimeconfig.json
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\LudusStadium.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\LudusStadium.pdb
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Humanizer.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.csproj.AssemblyReference.cache
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.AssemblyInfoInputs.cache
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.AssemblyInfo.cs
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.csproj.CoreCompileInputs.cache
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets\msbuild.LudusStadium.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets\msbuild.build.LudusStadium.props
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LudusStadium.props
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LudusStadium.props
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\scopedcss\bundle\LudusStadium.styles.css
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.csproj.CopyComplete
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\refint\LudusStadium.dll
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.pdb
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\LudusStadium.genruntimeconfig.cache
+C:\Users\KingE\Documents\Projetos\ProjetoLudus\ludus_service_stadiums\obj\Debug\net6.0\ref\LudusStadium.dll
