@@ -6,12 +6,3 @@ services:
       dockerfile: Dockerfile
     ports:
       - 80:80
-    depends_on:
-      - db
-    environment:
-      - ConnectionStrings__DefaultConnection=Server=db;Database=LudusStadium;User=root;Password=root
-  db:
-    image: mcr.microsoft.com/mssql/server
-    environment:
-      - SA_PASSWORD=root
-      - ACCEPT_EULA=Y
